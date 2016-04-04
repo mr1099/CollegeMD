@@ -1,0 +1,5 @@
+course name
+professor
+course number
+num of students
+roster
